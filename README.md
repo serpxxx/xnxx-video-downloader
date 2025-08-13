@@ -7,8 +7,8 @@ Download videos from xnxx with this easy to use browser extension.
 ## 🔗 Links
 
 - 🎁 Get it [here](https://serp.ly/xnxx-video-downloader)
-- 🐛 Report bugs [here](https://github.com/serpapps/xnxx-video-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/xnxx-video-downloader/issues)
+- 🐛 Report bugs [here](https://github.com/serpxxx/xnxx-video-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpxxx/xnxx-video-downloader/issues)
 - 🆘 Get help [here](https://support.serp.co/)
 
 
