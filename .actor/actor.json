@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Download videos from XNXX in MP4 format. This browser extension works across all XNXX domains including xnxx.com, video.xnxx.com, xnxx3.com, and mirror sites, automatically detecting videos and displaying available quality options.\n\nChoose your preferred quality and the extension saves videos directly to your computer as standard MP4 files for offline viewing. Simple operation with clear progress indicators.\n\nAll processing happens locally in your browser for privacy. Works with Chrome, Edge, Firefox, Brave, and Opera on desktop platforms.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "xnxx-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Xnxx Downloader",
+  "version": "0.0"
+}
