@@ -1,4 +1,4 @@
-# XNXX Downloader (Browser Extension)
+# XNXX Downloader
 
 > Download supported XNXX videos as MP4 files directly from active video pages.
 
