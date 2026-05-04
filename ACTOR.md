@@ -1,6 +1,10 @@
-# XNXX Downloader
+# Xnxx Video Downloader | How to Download Xnxx Videos
 
 > Download supported XNXX videos as MP4 files directly from active video pages.
+
+## Get it Here
+
+Get it here: https://serp.ly/xnxx-video-downloader
 
 ![Xnxx Downloader](https://raw.githubusercontent.com/serpxxx/xnxx-video-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ XNXX Downloader is a browser extension built for users who want a cleaner way to
 - Export MP4 files for easier playback and archiving
 - Avoid manual source extraction from page scripts
 - Keep the workflow fully in the browser
-
-## Get it Here
-
-Get it here: https://serp.ly/xnxx-video-downloader
-
 ## Table of Contents
 
 - [Why XNXX Downloader](#why-xnxx-downloader)
